@@ -6,7 +6,7 @@
 
 A comprehensive MATLAB Live Script project that automatically analyzes `.mp3` audio files, estimates their tempo (BPM) using energy-based onset detection, categorizes them into distinct playlists, and provides an integrated command-line interface (CLI) playback system.
 
-Created as a Final Project for the **Robotic Tools** (Herramientas Robóticas) course.
+Created as a Final Project for the **Robotic Tools** (Herramientas Robóticas - MATLAB) course.
 
 ---
 
