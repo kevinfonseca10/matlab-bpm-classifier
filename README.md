@@ -40,7 +40,7 @@ The project was developed as a MATLAB Live Script (`reproductor_bpm.mlx`) divide
 ## 4. Results
 The algorithm successfully reads and sorts audio files without data loss, demonstrating a robust ability to estimate tempos and dynamically adjust sorting thresholds based on the given dataset. The interactive interface runs smoothly without interrupting the main MATLAB thread.
 
-🎥 **[▶️ Watch the Video Presentation Here]([(https://youtu.be/rmFKoHQGKFs)])**
+🎥 **[▶️ Watch the Video Presentation Here]-([(https://youtu.be/rmFKoHQGKFs)])**
 
 ### 🛠️ Prerequisites & Project Structure
 To run this project, you will need **MATLAB** (Live Scripts supported) and the **Signal Processing Toolbox**. Ensure your repository is structured as follows, with the code properly located in its respective folders:
